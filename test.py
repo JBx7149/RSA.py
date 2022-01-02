@@ -51,5 +51,5 @@ elif sys.argv[1] == 'decrypt':
 else:
     print("Usage:")
     print("python test.py makekeys [name]")
-    print("python test.py encrypt [infile] from [name] to [outfile]")
+    print("python test.py encrypt [infile] for [name] to [outfile]")
     print("python test.py decrypt [infile] as [name] to [outfile]")
